@@ -1,6 +1,6 @@
 package Arrays;
 
-class GFG{
+class MinimumDistanceBetweenTwoNums{
 
     public static void main(String[] args) {
         int[] a = { 86, 39, 90, 67, 84, 66, 62 };
